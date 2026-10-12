@@ -1,6 +1,6 @@
 # Financial Statement Analysis Dashboard
 
-An end-to-end financial data analysis project comparing the financial performance of **Apple, Alphabet, and Microsoft** from FY2022–FY2026.
+An end-to-end financial data analysis project comparing the financial performance of **Apple, Alphabet, and Microsoft** from FY2022 to latest available.
 
 The project uses **Python and pandas** for financial data extraction and transformation, **Google Cloud Storage** for cloud file storage, **BigQuery** for cloud data storage, validation, and SQL querying, and **Power BI** for interactive visualization.
 
