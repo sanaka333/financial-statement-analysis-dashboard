@@ -65,13 +65,4 @@ The Power BI dashboard includes:
 - Alphabet (`GOOGL`)
 - Microsoft (`MSFT`)
 
-## Project Structure
-
-```text
-financial-statement-analysis-dashboard/
-├── README.md
-├── financial_analysis.py
-├── financial_dashboard_data.csv
-├── dashboard.png
-└── .gitignore
 
