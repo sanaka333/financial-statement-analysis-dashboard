@@ -6,7 +6,7 @@ The project uses **Python and pandas** for financial data extraction and transfo
 
 ## Dashboard
 
-![Financial Statement Analysis Dashboard](dashboard.png)
+![Financial Statement Analysis Dashboard](dashboard/dashboard.png)
 
 ## Architecture
 
